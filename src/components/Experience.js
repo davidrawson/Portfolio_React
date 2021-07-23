@@ -22,7 +22,7 @@ const Experience = () => {
                     src={experience.image}
                     className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
-                  <span classNameflex-grow flex flex-col pl-4>
+                  <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-white">
                       {experience.name}
                     </span>
