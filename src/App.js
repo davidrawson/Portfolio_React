@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 
 const App = () => {
   return (
-    <main className="text-gray-900 bg-gray-300 body-font">
+    <main className="text-gray-900 bg-gray-400 body-font">
       <NavBar />
       <About />
       <Projects />
